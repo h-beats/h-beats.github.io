@@ -1,0 +1,19 @@
+to change
+tags images
+change author image
+Update subscribe
+Update about
+remove try ghost
+update getting started
+make tags page
+
+Documentation
+-----------------
+Edit navbar in navigation.html
+meta in head.html
+make ico for favicon
+Adding a new page -> add to navigation.html, links to that page 
+
+Bugs
+----
+Wont list if less than 2 posts
